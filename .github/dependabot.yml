@@ -1,7 +1,7 @@
 version: 2
 updates:
     target-branch : "main"
-  - package-ecosystem: "npm"
+    package-ecosystem: "npm"
     directory: "/"
     
     schedule:
