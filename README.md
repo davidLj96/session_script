@@ -1,4 +1,3 @@
-
 # express-session
 
 [![NPM Version][npm-version-image]][npm-url]
